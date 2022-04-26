@@ -29,7 +29,7 @@ AWS Bucket: -
 AWS User: -
 Key ID: -
 
-proceed? [Y/n]: 
+proceed? [Y/n]: y
 ```
 
 If all the info looks good, click enter and it will create the bucket.
